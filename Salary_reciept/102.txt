@@ -1,0 +1,19 @@
+	Company Name, XYZ
+	Address: Xyz, Floor4
+------------------------------------------------
+Employee ID		: 102
+SalaryOf		:  3-2021
+Generated On		:  23-04-2021
+-------------------------------------------------
+Total Days		: 31
+Total Present		: 29
+Total Absent		: 2
+Convence		: Rs.2342
+Medical		: Rs.1234
+PF		: Rs.3453
+Gross Payment		: Rs.343443
+Net Salary		: Rs.318940.39
+--------------------------------------------------
+This is Computer Generated Slip, not
+required any Signature
+
